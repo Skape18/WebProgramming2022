@@ -1,6 +1,9 @@
 {
   "name": "web-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "v16.13.2"
+  },
   "main": "server.js",
   "dependencies": {
     "cors": "^2.8.5",
