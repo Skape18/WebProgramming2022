@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:3000";
+const baseUrl = "https://young-river-98606.herokuapp.com/ ";
 
 function getData() {
   const count = document.getElementById("amount-input").value;
